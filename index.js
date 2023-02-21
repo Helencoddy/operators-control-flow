@@ -2,7 +2,9 @@
 
 ANSWER:
 
-if (subject === 'art') {
+let subject ='Art';
+
+if (subject === 'Art') {
     console.log('Government, Economics, Literature, History');
   } else if (subject === 'science') {
     console.log('Physics, Chemistry, Biology, Technical Drawing');
